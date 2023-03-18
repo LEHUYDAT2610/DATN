@@ -1,0 +1,15 @@
+.count-favorites{
+margin-top: -55px;
+    margin-left: 275px;
+}
+.count-favorites i{
+    font-size: 25px;
+    color: red;
+}
+.count-favorites .text{
+    margin-top: -30px;
+    margin-left: 30px;
+}
+.count-favorites span{
+    font-size: 20px;
+}
